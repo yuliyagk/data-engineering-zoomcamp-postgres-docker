@@ -13,7 +13,7 @@ The goal of this project is to create a reproducible data pipeline that:
 * Uses Docker to manage the environment
 * Allows querying and analysis via SQL tools
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * Python
 * PostgreSQL
@@ -30,7 +30,7 @@ Pipeline flow:
 Data Source → Python Script → PostgreSQL (Docker) → SQL Analysis
 ```
 
-## 📂 Project Structure
+##  Project Structure
 
 ```bash
 .
