@@ -1,3 +1,5 @@
+<img width="1774" height="887" alt="PostgreSQL-Datenpipeline mit Docker (2)" src="https://github.com/user-attachments/assets/463f8721-3389-4f6b-9686-e634c6223883" />
+
 # PostgreSQL Data Pipeline with Docker
 
 This project is part of the Data Engineering Zoomcamp by DataTalksClub.
